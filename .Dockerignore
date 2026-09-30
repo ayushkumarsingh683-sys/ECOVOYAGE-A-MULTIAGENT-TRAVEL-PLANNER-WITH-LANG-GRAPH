@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.py
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Git files
+.git
+.gitignore
+
+# Environment variables & Secrets (सबसे महत्वपूर्ण - इन्हें इमेज में जाने से रोकना है)
+.env
+
+# Readme and documentation
+README.md
+*.md
+Dockerfile
+docker-compose.yml
